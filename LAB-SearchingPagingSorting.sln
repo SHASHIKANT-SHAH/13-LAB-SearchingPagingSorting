@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB-SearchingPagingSorting", "LAB-SearchingPagingSorting\LAB-SearchingPagingSorting.csproj", "{71C890F0-0A9F-4E02-A6C1-587C142A70FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{310674DB-7096-4493-8549-A943269011BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71C890F0-0A9F-4E02-A6C1-587C142A70FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C890F0-0A9F-4E02-A6C1-587C142A70FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71C890F0-0A9F-4E02-A6C1-587C142A70FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71C890F0-0A9F-4E02-A6C1-587C142A70FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{310674DB-7096-4493-8549-A943269011BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310674DB-7096-4493-8549-A943269011BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310674DB-7096-4493-8549-A943269011BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310674DB-7096-4493-8549-A943269011BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {087A3760-7C60-4628-B9E8-E8DEDE731116}
+	EndGlobalSection
+EndGlobal
